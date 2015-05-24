@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-#
 # This is just a demo of using lexical scoping in
 # R. We'll enable a function to be repeatedly
 # called without incurring the computational
